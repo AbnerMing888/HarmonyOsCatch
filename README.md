@@ -13,7 +13,7 @@ HarmonyOsCatch是一个全局异常捕获工具，支持文件和数据库形式
 
 DevEco Studio NEXT Developer Beta1,Build Version: 5.0.3.900
 
-Api版本：**11**
+Api版本：**12**
 
 modelVersion：5.0.0
 
@@ -30,7 +30,7 @@ ohpm install @abner/catch
 方式二：在工程的oh-package.json5中设置三方包依赖，配置示例如下：
 
 ```
-"dependencies": { "@abner/catch": "^1.0.0"}
+"dependencies": { "@abner/catch": "^1.0.1"}
 ```
 
 ## 初始化

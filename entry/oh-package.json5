@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@abner/catch": "file:./libs/catch-1.0.0.har"
+    "@abner/catch": "file:./libs/catch-1.0.1.har"
   }
 }
 

@@ -13,6 +13,7 @@ export default class EntryAbility extends UIAbility {
         //自己收集异常信息上报
       }
     })
+
   }
 
   onDestroy(): void {
